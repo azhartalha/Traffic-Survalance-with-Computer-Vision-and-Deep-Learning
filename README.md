@@ -8,7 +8,7 @@ The system internally uses YOLO object detection algorithm for vehicle detection
 _____________________________________________________________________________________________________________________________
 
 # Instructions for running the project
-1. Download the model weights from: <a href="https://www.w3schools.com">Model weights</a>
+1. Download the model weights from: <a href="https://drive.google.com/open?id=135qLm2XX46M7zBpsUjlSKNNzKt-A-r4F">Model weights</a>
 2. Place it in the directory "model_data"
 3. Run main.py
 
